@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1682497927 "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/Sections/opg2.tex" "Sections/opg2.pdf" "opg2" 1682497929 0
+["pdflatex"] 1682521736 "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/Sections/opg3.tex" "Sections/opg3.pdf" "opg3" 1682521737 0
   "Sections/../main.tex" 1682439323 381 3cf6c5830d262f91b9aeca8615bf3214 ""
-  "Sections/opg2.aux" 1682497929 131 a8f5f86ac44c54cc34e4e2f3de292c03 "pdflatex"
-  "Sections/opg2.tex" 1682497926 1275 d103c16645c5d298638cac24e886620d ""
-  "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/Sections/opg2.tex" 1682497926 1275 d103c16645c5d298638cac24e886620d ""
+  "Sections/opg3.aux" 1682521737 131 a8f5f86ac44c54cc34e4e2f3de292c03 "pdflatex"
+  "Sections/opg3.tex" 1682521735 634 fccc48d0a44a7e9f3c65ec41bb364fd2 ""
+  "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/Sections/opg3.tex" 1682521735 634 fccc48d0a44a7e9f3c65ec41bb364fd2 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1679576667 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1679576310 1536 b3387106d9afecbfe14bde2de6eadf47 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0700.tfm" 1679576310 1536 73da8e8f1d2a4c957d51ca133585586b ""
@@ -31,7 +31,6 @@
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1679574768 35752 024fb6c41858982481f6968b5fc26508 ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1679574768 32762 7fee39e011c23b3589931effd97b9702 ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1679574769 32569 5e5ddc8df908dea60932f3c484a54c0d ""
-  "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1679574769 32716 08e384dc442464e7285e891af9f45947 ""
   "c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1679578614 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2023/texmf-dist/tex/generic/babel-danish/danish.ldf" 1679574924 5008 e7335994089e80278a46fbf120b69b17 ""
   "c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty" 1679574912 151363 1f5971af3ef874d432e8fb43e0edb71d ""
@@ -144,7 +143,7 @@
   "macro.sty" 1682439493 490 ff4b38640c66cd1502f03573fe3eecb8 ""
   "preamble.tex" 1682439936 748 788e870e75c62680e516b9096ac19142 ""
   (generated)
-  "Sections/opg2.aux"
-  "Sections/opg2.log"
-  "Sections/opg2.pdf"
+  "Sections/opg3.aux"
+  "Sections/opg3.log"
+  "Sections/opg3.pdf"
   (rewritten before read)

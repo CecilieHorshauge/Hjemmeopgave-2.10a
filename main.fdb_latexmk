@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1682497966 "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/main.tex" "main.pdf" "main" 1682497969 0
+["pdflatex"] 1682521738 "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/main.tex" "main.pdf" "main" 1682521739 0
   "Sections/opg1.tex" 1682441583 1270 6185877c86f3e6c72d2f8d6efce6e548 ""
   "Sections/opg2.tex" 1682497926 1275 d103c16645c5d298638cac24e886620d ""
-  "Sections/opg3.tex" 1682496737 383 f8406c4a9867dce169c16a7812351028 ""
+  "Sections/opg3.tex" 1682521735 634 fccc48d0a44a7e9f3c65ec41bb364fd2 ""
   "Sections/opg4.tex" 1682496747 415 f3a5387e7d295df3dd64e27678b481de ""
   "Sections/opg5.tex" 1682496762 415 8e197e2b62c7a15f851870f27003cb0d ""
   "Sections/opg6.tex" 1682497957 507 4ec0b3750c83f584c5b08883a0a8259d ""
@@ -146,7 +146,7 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1679583036 7883456 8b500e31a490f898c32bf97277dd79be ""
   "c:/texlive/2023/texmf.cnf" 1679582833 713 e69b156964470283e0530f5060668171 ""
   "macro.sty" 1682439493 490 ff4b38640c66cd1502f03573fe3eecb8 ""
-  "main.aux" 1682497969 131 d89e1d56da1ef84ad750ad0b479afba7 "pdflatex"
+  "main.aux" 1682521739 131 d89e1d56da1ef84ad750ad0b479afba7 "pdflatex"
   "main.tex" 1682439323 381 3cf6c5830d262f91b9aeca8615bf3214 ""
   "preamble.tex" 1682439936 748 788e870e75c62680e516b9096ac19142 ""
   (generated)
