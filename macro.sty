@@ -1,0 +1,15 @@
+%Billede
+%eksemel: \myfigure{bredde 0-1}{Images/testbillede.png}{Billedtekst}{billednavn}
+\newcommand\myfigure[4]{
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=#1\textwidth]{#2}
+        \caption{#3}
+        \label{fig:#4}
+    \end{figure}
+}
+%Is defined to be equal to
+\newcommand*{\defeq}{\mathrel{\vcenter{\baselineskip0.5ex \lineskiplimit0pt
+                     \hbox{\scriptsize.}\hbox{\scriptsize.}}}%
+                     =}
+%Colored headlines

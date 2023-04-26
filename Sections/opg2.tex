@@ -1,0 +1,29 @@
+\documentclass[../main.tex]{subfiles}
+\begin{document}
+\begin{tcolorbox}[title=Opgave 2,
+    colback=blue!1!white,
+    colframe=black,
+    colbacktitle=blue!25!white,
+    coltitle=red!25!black,
+    fonttitle=\bfseries,
+    subtitle style={boxrule=0.4pt,
+    colback=blue!7!white} ]
+    \tcbsubtitle{2a}
+        Banekurven for \(M\) skærer x-aksen netop når y-værdien er 0.\\
+        Man løser ligningen: 
+        \[1.5-t^2=0\]
+        Derefter indsættes \(t\) i \(0.5 \cdot t\), dette er x-koordinaten for banekurvens skæringspunkt med x-aksen.
+    \tcbsubtitle{2b}
+        Farten for vogn \(M\) når \(t = 0.5\) kan regnes ved:
+        \[\text{fart}(t)=\left| \overrightarrow{v}(t)\right|= \sqrt{x'(t)^2+y'(t)^2}\]
+        Vær opmærksom på at enheden bliver i km/min. Konverter dette til km/t.
+    \tcbsubtitle{2c}
+        For at vognene kan støde sammen må der findes et tidspunkt de har samme koordinatsæt.
+        Man kan løse to ligninger med 2 ubekendte:
+        \begin{align}
+            0.5t&=t\cdot \text{cos}(60)\\
+            1.5-t^2&=t\cdot \text{sin}(60)
+        \end{align}
+        Dette er tiden for sammenstødet. Hvis der ingen løsning er for ligningssystemet støder de aldrig sammen.
+\end{tcolorbox}
+\end{document}
