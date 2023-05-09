@@ -1,12 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1683642102 "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/main.tex" "main.pdf" "main" 1683642104 0
-  "Sections/opg1.tex" 1683641876 1271 f45d98e9e24eed924f43dcdef3c09f66 ""
+["pdflatex"] 1683641919 "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/Sections/opg2.tex" "Sections/opg2.pdf" "opg2" 1683641922 0
+  "Sections/../main.tex" 1683613119 349 74f21293f5935c3b596b5b6833c3e6a0 ""
+  "Sections/opg2.aux" 1683641921 131 a8f5f86ac44c54cc34e4e2f3de292c03 "pdflatex"
   "Sections/opg2.tex" 1683641918 1306 3a5dbb0f214a9a258538f175fdc5ee85 ""
-  "Sections/opg3.tex" 1682521735 634 fccc48d0a44a7e9f3c65ec41bb364fd2 ""
-  "Sections/opg4.tex" 1683642048 1163 9bd8a9e14c31e3bcbcb6ef330b577603 ""
-  "Sections/opg5.tex" 1683642075 798 2cb389ee6433a6d96cfcbc0928aad2b3 ""
-  "Sections/opg6.tex" 1683561987 743 deaa1629a064e89e9eec1aa4e855f304 ""
-  "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/main.tex" 1683613119 349 74f21293f5935c3b596b5b6833c3e6a0 ""
+  "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.10a/Sections/opg2.tex" 1683641918 1306 3a5dbb0f214a9a258538f175fdc5ee85 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1679575419 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1679576667 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1679576310 1536 b3387106d9afecbfe14bde2de6eadf47 ""
@@ -133,6 +130,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty" 1679579429 989 c49c8ae06d96f8b15869da7428047b1e ""
   "c:/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty" 1679579429 443 8c872229db56122037e86bcda49e14f3 ""
   "c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1679579429 325 f9f16d12354225b7dd52a3321f085955 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/subfiles/subfiles.cls" 1679581622 1507 57de335d88fde4e5c924dfed577fdb74 ""
   "c:/texlive/2023/texmf-dist/tex/latex/subfiles/subfiles.sty" 1679581622 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "c:/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty" 1679581739 100426 2bce05b9314899534186dd5b9964ae73 ""
   "c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty" 1679582143 12691 5b542990fe866f3d772f71346cf85b95 ""
@@ -146,11 +144,9 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1679583036 7883456 8b500e31a490f898c32bf97277dd79be ""
   "c:/texlive/2023/texmf.cnf" 1679582833 713 e69b156964470283e0530f5060668171 ""
   "macro.sty" 1682439493 490 ff4b38640c66cd1502f03573fe3eecb8 ""
-  "main.aux" 1683642104 131 711b0e7ae026b6bf170598501e68fb79 "pdflatex"
-  "main.tex" 1683613119 349 74f21293f5935c3b596b5b6833c3e6a0 ""
   "preamble.tex" 1682439936 748 788e870e75c62680e516b9096ac19142 ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.pdf"
+  "Sections/opg2.aux"
+  "Sections/opg2.log"
+  "Sections/opg2.pdf"
   (rewritten before read)
